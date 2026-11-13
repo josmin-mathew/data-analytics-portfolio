@@ -1,30 +1,96 @@
+
 # Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! This repository will showcase my work in data analysis, business intelligence, and data visualization.
+Welcome to my Data Analytics Portfolio.
 
-## Skills & Tools
+This repository showcases business-focused data analytics projects demonstrating expertise in data analysis, business intelligence, data visualization, performance measurement, and data-driven decision-making.
 
-- SQL
+## Core Analytics Capabilities
+
+- Data Analysis and Data Preparation
+- Data Cleaning and Quality Validation
+- Exploratory Data Analysis
+- Business Intelligence and Reporting
+- KPI Development and Performance Measurement
+- Trend and Comparative Analysis
+- Interactive Dashboard Development
+- Business Insights and Data Storytelling
+
+## Tools & Technologies
+
 - Microsoft Excel
 - Power BI
 - Tableau
+- Python
+- SQL
 
-## Projects
+## Featured Project
 
-### 1. Mortgage Loan Performance Analysis
-**Status:** In Progress
+### Project 1: Mortgage Loan Pipeline & Operational Performance Analysis
 
-Planned analysis of mortgage loan portfolio performance, including loan trends, outstanding balances, and portfolio insights.
+**Business Domain:** Mortgage Lending
 
-**Tools:** SQL, Excel, Power BI / Tableau
+**Dataset:** 5,000 fictional mortgage application records.
 
-### 2. Loan Delinquency and Repayment Analysis
-**Status:** Planned
+**Objective:**
 
-Planned analysis of loan delinquency, late-payment trends, and repayment patterns to explore lending portfolio risk.
+Analyze mortgage application pipeline performance, funding activity, lender volume, loan distribution, and operational performance to generate meaningful business insights and support data-driven decisions.
 
-**Tools:** SQL, Excel, Power BI / Tableau
+### Key Business Analysis
 
-## About This Portfolio
+- Monthly Application Trends
+- Monthly Funding Trends
+- Monthly Funded Loan Amount Analysis
+- Lender Volume Analysis
+- Loan Purpose and Loan Type Analysis
+- Loan Officer Performance
+- Loan Processor Status Analysis
 
-This portfolio is being developed as I continue building practical data analytics projects. Project documentation, analysis, visualizations, and findings will be added as each project progresses.
+### Key Performance Indicators
+
+| KPI | Result |
+|---|---:|
+| Total Applications | 5,000 |
+| Funded Applications | 2,398 |
+| Funding Rate | 47.96% |
+| Total Funded Loan Amount | $1,148.38M |
+
+### Excel Technical Skills Demonstrated
+
+- Advanced Excel formulas
+- PivotTables and PivotCharts
+- Interactive slicers
+- XLOOKUP and VLOOKUP
+- KPI calculations
+- Data validation
+- Date grouping and analysis
+- Executive Dashboard Development
+
+### Project Deliverables
+
+- Interactive Executive Dashboard
+- Supporting Analytical Reports
+- Monthly Application and Funding Analysis
+- Lender and Loan Officer Performance Analysis
+- Loan Processor Status Heatmap
+- Lookup Function Demonstrations
+- Project Documentation
+
+**Project Documentation:** [View Project README](./Mortgage_Loan_Pipeline_Analysis/README.md)
+
+**Excel Workbook:** [View Excel Analysis](./Mortgage_Loan_Pipeline_Analysis/Mortgage_Loan_Pipeline_Analysis.xlsx)
+
+## Multi-Tool Analytics
+
+The mortgage analytics project will be extended using additional data analytics tools to provide complementary analysis, data modeling, interactive visualizations, and business intelligence reporting.
+
+## Dataset & Privacy
+
+All datasets used in this portfolio are fictional and created specifically for portfolio demonstration. No real customer or employer information is included.
+
+## Portfolio Objective
+
+To demonstrate practical data analytics capabilities through end-to-end business analysis, analytical reporting, interactive dashboards, and actionable insights using industry-relevant tools.
+
+
+
