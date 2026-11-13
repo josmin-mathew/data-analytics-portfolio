@@ -92,4 +92,14 @@ The Application Status slicer filters the charts while preserving the overall KP
 
 Developed an interactive mortgage analytics workbook with executive-level KPIs, supporting analytical reports, dynamic filtering, lookup examples, and documented business findings.
 
-**Future project extensions:** SQL, Power BI, and Tableau analyses using the same synthetic mortgage dataset.
+
+
+## Multi-Tool Analytics
+
+This mortgage analytics initiative is designed as a unified, cross-platform business analytics project.
+
+The Excel implementation establishes the baseline business metrics and analytical findings. The same synthetic dataset and business objectives will support complementary analysis, data modeling, interactive visualizations, and business intelligence reporting across Power BI, Tableau, Python, and SQL.
+
+Each implementation will provide additional analytical perspectives and demonstrate the application of different technologies to business problems.
+
+
